@@ -1,0 +1,7 @@
+chromadb
+openpyxl
+pandas
+numpy
+requests
+streamlit
+python-dotenv
